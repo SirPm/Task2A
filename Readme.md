@@ -1,9 +1,9 @@
-![Ingressive](i4g.png)
+![Ingressive]("./i4g.png/")
 ## https://ingressive.org/
 
-![Zuri](zuri.png)
+![Zuri]("./zuri.png")
 ## https://training.zuri.team/
 
-![HNG](hng.png)
+![HNG]("./hng.png")
 ## https://hng.tech/
 
